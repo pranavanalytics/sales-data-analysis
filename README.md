@@ -56,6 +56,9 @@ The interactive dashboard includes:
 - Monthly Sales and Profit Trends.
 - Region and Order Date slicers.
 
+## Dashboard Preview
+![Superstore Sales Performance Dashboard](Superstore_Dashboard.png)
+
 ## Project Files
 - `sales-data-analysis.ipynb` — Python analysis notebook
 - `Superstore_Cleaned.csv` — Cleaned dataset
